@@ -1,7 +1,7 @@
 # Iris-classification-Bharat-Intern:-
 
 
-This repository contains the source code and resources for an Iris Recognition system. Iris recognition is an recognition model which uses machine learning  to predict the species of the iris using a labeled dataset to train the model.
+This repository contains the source code and resources for an Iris Classification model. Iris Classification is an  Which is a comprehensive exploration of machine learning techniques applied to the classification of iris flowers into different species based on their physical characteristics.
 
 ## Table of Contents
 
@@ -39,5 +39,7 @@ For example:
 - NumPy
 - seaborn
 - matplotlib
-- etc.
+- pandas
+- sklearn
+- etc...
 
