@@ -12,7 +12,7 @@ This repository contains the source code and resources for an Iris Classificatio
   
 ## Overview
 
- This project is to train our own supervised machine learning model using Iris Flower Classification Project with Machine Learning. Through this project, we learned about machine learning, data analysis, data visualization, model creation, etc.
+ This project is to train our own supervised machine learning model using Iris Flower Classification Project with Machine Learning. Using techniques of machine learning, data analysis, data visualization, model creation, etc.
 
 
 ## Getting Started
