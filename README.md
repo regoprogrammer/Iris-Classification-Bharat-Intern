@@ -1,29 +1,33 @@
-# Iris-Classification-Bharat-Intern
+# Iris-classification-Bharat-Intern
+# Iris Classification Project
 
-This repository contains the source code and resources for an Iris Classification system. Iris Classification is an recognition model which uses machine learning  to predict the species of the iris using a labeled dataset to train the model.
+This repository contains the source code and resources for an Iris Recognition system. Iris recognition is an recognition model which uses machine learning  to predict the species of the iris using a labeled dataset to train the model.
+
 ## Table of Contents
 
 - [Overview](#overview)
-- [Features](#features)
 - [Getting Started](#getting-started)
+- - [Features](#features)
   - [Prerequisites](#prerequisites)
   
 ## Overview
 
-Provide a brief introduction to your Iris Classification project. Explain its purpose, the problems it aims to solve, and its significance.
+ This project is to train our own supervised machine learning model using Iris Flower Classification Project with Machine Learning. Through this project, we learned about machine learning, data analysis, data visualization, model creation, etc.
 
-## Features
-
-List the key features and capabilities of your Iris Classification system, such as:
-
-- Iris dataset visualization
-- User verification of required metrics
-- Results visualization
-- Performance metrics
 
 ## Getting Started
 
-Explain how to get started with your project. Provide detailed instructions for setting up and running your Iris Classification system.
+This gives the overview of the project with the features and prerequisites.
+
+### Features
+
+List the key features and capabilities of your Iris Recognition system, such as:
+
+1. Load the data
+2. Analyze and visualize the dataset
+3. Model training.
+4. Model Evaluation.
+5. Testing the model.
 
 ### Prerequisites
 
